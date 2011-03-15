@@ -22,13 +22,27 @@
         document.getElementById("DataContainer").innerHTML = "The time at the server is: " + data;
     };
 
+    function ExecuteAJAXCall2() {
+        $.ajax({
+            url: "AJAXCall2.aspx",
+            dataType: 'json',
+            success: Callback_AJAXCall2
+        });
+    };
+
+    function Callback_AJAXCall2(data) {
+        document.getElementById("DataContainer2").innerHTML = "The computer name is: " + data;
+    };
+
 </script>
 <body>
     <form id="form1" runat="server">
     <h2>jQuery AJAX call test page</h2>
     <button type="button" onclick='ExecuteAJAXCall()'>Get server time</button>
+    <button type="button" onclick='ExecuteAJAXCall2()'>Get computer name</button>
     <br /><br />
     <div id="DataContainer" ></div>    
+    <div id="DataContainer2" ></div>    
     </form>
 </body>
 </html>

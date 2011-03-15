@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AJAXCall.aspx" />
+    <Content Include="AJAXCall2.aspx" />
     <Content Include="shared\jquery-1.4.2.js" />
     <Content Include="TestPage.aspx" />
     <Content Include="Web.config" />
@@ -69,6 +70,13 @@
     </Compile>
     <Compile Include="AJAXCall.aspx.designer.cs">
       <DependentUpon>AJAXCall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AJAXCall2.aspx.cs">
+      <DependentUpon>AJAXCall2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AJAXCall2.aspx.designer.cs">
+      <DependentUpon>AJAXCall2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestPage.aspx.cs">
@@ -88,7 +96,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>50947</DevelopmentServerPort>
+          <DevelopmentServerPort>46337</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

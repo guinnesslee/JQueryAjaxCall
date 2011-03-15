@@ -8,3 +8,8 @@ C:\Users\Hon\Downloads\jQueryAJAXCall\bin\jQueryAJAXCall.pdb
 C:\Users\Hon\Downloads\jQueryAJAXCall\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Hon\Downloads\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.dll
 C:\Users\Hon\Downloads\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.pdb
+C:\Users\Hon\Documents\JQueryAjaxTest\jQueryAJAXCall\bin\jQueryAJAXCall.dll
+C:\Users\Hon\Documents\JQueryAjaxTest\jQueryAJAXCall\bin\jQueryAJAXCall.pdb
+C:\Users\Hon\Documents\JQueryAjaxTest\jQueryAJAXCall\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hon\Documents\JQueryAjaxTest\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.dll
+C:\Users\Hon\Documents\JQueryAjaxTest\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.pdb
