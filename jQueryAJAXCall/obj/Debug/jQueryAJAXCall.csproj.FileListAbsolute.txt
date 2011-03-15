@@ -1,0 +1,5 @@
+c:\users\oliver\documents\visual studio 2010\Projects\jQueryAJAXCall\jQueryAJAXCall\bin\jQueryAJAXCall.dll
+c:\users\oliver\documents\visual studio 2010\Projects\jQueryAJAXCall\jQueryAJAXCall\bin\jQueryAJAXCall.pdb
+c:\users\oliver\documents\visual studio 2010\Projects\jQueryAJAXCall\jQueryAJAXCall\obj\Debug\ResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2010\Projects\jQueryAJAXCall\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.dll
+c:\users\oliver\documents\visual studio 2010\Projects\jQueryAJAXCall\jQueryAJAXCall\obj\Debug\jQueryAJAXCall.pdb
